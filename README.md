@@ -1,9 +1,3 @@
-## Foundry
-
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-
-# Foundry Fund Me
-
 # Foundry Fund Me
 
 
@@ -51,7 +45,7 @@ forge script script/DeployFundMe.s.sol
 
 ## Testing
 
-We talk about 4 test tiers in the video. 
+There are 4 test tiers. 
 
 1. Unit
 2. Integration
@@ -140,4 +134,4 @@ forge fmt
 
 # Thank you!
 
-If you appreciated this, feel free to follow me
+If you appreciated this, feel free to give a STAR.
